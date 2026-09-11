@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-27T22:53:15.973224",
+  "metrics": {
+    "r_squared": 0.9995415566369639,
+    "residual": 0.0035765973464336647,
+    "truncated": true,
+    "full_r_squared": 1.0
+  },
+  "strategies": [
+    {
+      "type": "curve",
+      "center": 12,
+      "width": 19,
+      "weight": 0.6575178620778875
+    },
+    {
+      "type": "bid_ask",
+      "center": 12,
+      "width": 8,
+      "weight": 0.029315181295557498
+    },
+    {
+      "type": "rectangle",
+      "center": 12,
+      "width": 25,
+      "weight": 0.04384969904975249
+    },
+    {
+      "type": "rectangle",
+      "center": 12,
+      "width": 11,
+      "weight": 0.07234509677974485
+    },
+    {
+      "type": "bid_ask",
+      "center": 12,
+      "width": 6,
+      "weight": 0.01605113133303216
+    },
+    {
+      "type": "bid_ask",
+      "center": 12,
+      "width": 4,
+      "weight": 0.008219644824346149
+    },
+    {
+      "type": "bid_ask",
+      "center": 12,
+      "width": 20,
+      "weight": 0.0351769422063443
+    },
+    {
+      "type": "curve",
+      "center": 12,
+      "width": 16,
+      "weight": 0.13752444243333503
+    }
+  ]
+}

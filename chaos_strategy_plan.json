@@ -1,0 +1,42 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-09-10T22:20:39.509482",
+  "metrics": {
+    "r_squared": 0.9867188575370865,
+    "residual": 0.017733238194302635,
+    "truncated": true,
+    "full_r_squared": 1.0
+  },
+  "strategies": [
+    {
+      "type": "curve",
+      "center": 0,
+      "width": 66,
+      "weight": 0.6208304590141177
+    },
+    {
+      "type": "bid_ask",
+      "center": 10,
+      "width": 22,
+      "weight": 0.16300994802352134
+    },
+    {
+      "type": "bid_ask",
+      "center": 8,
+      "width": 30,
+      "weight": 0.10782102510078341
+    },
+    {
+      "type": "curve",
+      "center": 2,
+      "width": 6,
+      "weight": 0.04239651118006744
+    },
+    {
+      "type": "bid_ask",
+      "center": 32,
+      "width": 34,
+      "weight": 0.06594205668050601
+    }
+  ]
+}

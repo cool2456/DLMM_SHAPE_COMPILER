@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-01-22T15:40:41.529236",
+  "metrics": {
+    "r_squared": 0.9924179574018754,
+    "residual": 0.00835403527563865,
+    "truncated": true,
+    "full_r_squared": 1.0
+  },
+  "strategies": [
+    {
+      "type": "curve",
+      "center": 34,
+      "width": 55,
+      "weight": 0.9439334348498887
+    },
+    {
+      "type": "bid_ask",
+      "center": 15,
+      "width": 61,
+      "weight": 0.056066565150111276
+    }
+  ]
+}
